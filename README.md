@@ -1,4 +1,9 @@
-# sympcoin
+# SympCoin SPA
+[![Give me a cup coffe :)](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/esmerlinjm)
+
+### RESTful API for SPA and host coming soon :)
+
+![alt text](https://github.com/EsmerlinJM/sympcoin/blob/master/public/Captura%20de%20Pantalla%202019-06-30%20a%20la(s)%207.27.18%20p.%20m..png)
 
 ## Project setup
 ```
